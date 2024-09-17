@@ -1,4 +1,4 @@
-## Matthew Sparkman Homework 1
+# Matthew Sparkman Homework 1
 
 ## Assignment Instructions:
 
