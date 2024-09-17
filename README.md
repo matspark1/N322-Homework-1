@@ -1,6 +1,6 @@
 ## Matthew Sparkman Homework 1
 
-### How to set up the project.
+### How to set up the project after downloading.
 
 1. Install dependencies
 
